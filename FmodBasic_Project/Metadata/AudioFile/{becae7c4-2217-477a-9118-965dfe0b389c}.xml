@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{becae7c4-2217-477a-9118-965dfe0b389c}">
+		<property name="assetPath">
+			<value>Player/Squeak/Player_Footstep_Squeak_09.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.18233333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{395e9745-639d-43d7-bc73-6a7bdf41f2ac}</destination>
+		</relationship>
+	</object>
+</objects>
