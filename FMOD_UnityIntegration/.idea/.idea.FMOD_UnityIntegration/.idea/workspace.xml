@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a176829f-3f8c-4e7e-b1f8-44d741e3cd60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Characters/Player.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Characters/Player.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Animation/EnemyAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Animation/EnemyAnimatorController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Animation/PlayerAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Animation/PlayerAnimatorController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/Hellephant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/Hellephant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/ZomBear.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/ZomBear.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/ZomBunny.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/ZomBunny.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scenes/Complete-Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scenes/Complete-Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{142902fa-f4fb-4237-a0d7-70e520eda2ab}.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{142902fa-f4fb-4237-a0d7-70e520eda2ab}.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{511328ab-a71e-4eed-9c9f-16c7d88ca42d}.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{511328ab-a71e-4eed-9c9f-16c7d88ca42d}.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{c1df62c6-26d5-47c0-8866-64c585d0e8be}.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{c1df62c6-26d5-47c0-8866-64c585d0e8be}.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/ParameterPreset/{39870eee-7a1f-4a34-a483-f3d46a4f4d02}.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/ParameterPreset/{39870eee-7a1f-4a34-a483-f3d46a4f4d02}.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/MusicManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/MusicManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AudioAnimationHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rGJJRrB7FsWYbfV6FhX7JwqNqB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34995976" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30008045" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.50057536" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a176829f-3f8c-4e7e-b1f8-44d741e3cd60" name="Default Changelist" comment="" />
+      <created>1618596422834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618596422834</updated>
+      <workItem from="1618596433016" duration="2749000" />
+      <workItem from="1618853453272" duration="2145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="519" key="GridCell.Tab.0.bottom" timestamp="1618597475477">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1618597475477" />
+    <state width="2517" height="519" key="GridCell.Tab.0.center" timestamp="1618597475477">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1618597475477" />
+    <state width="2517" height="519" key="GridCell.Tab.0.left" timestamp="1618597475477">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1618597475477" />
+    <state width="2517" height="519" key="GridCell.Tab.0.right" timestamp="1618597475477">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1618597475477" />
+    <state width="2517" height="519" key="GridCell.Tab.1.bottom" timestamp="1618597481828">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1618597481828" />
+    <state width="2517" height="519" key="GridCell.Tab.1.center" timestamp="1618597481828">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1618597481828" />
+    <state width="2517" height="519" key="GridCell.Tab.1.left" timestamp="1618597481828">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1618597481828" />
+    <state width="2517" height="519" key="GridCell.Tab.1.right" timestamp="1618597481828">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1618597481828" />
+  </component>
+</project>

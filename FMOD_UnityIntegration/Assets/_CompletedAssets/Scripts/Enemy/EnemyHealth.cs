@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using FMODUnity;
+using UnityEngine;
 
 namespace CompleteProject
 {
@@ -13,6 +14,10 @@ namespace CompleteProject
 
         Animator anim;                              // Reference to the animator.
         AudioSource enemyAudio;                     // Reference to the audio source.
+
+        [EventRef]
+        public string audioHurt;
+        
         ParticleSystem hitParticles;                // Reference to the particle system that plays when the enemy is damaged.
         CapsuleCollider capsuleCollider;            // Reference to the capsule collider.
         bool isDead;                                // Whether the enemy is dead.
@@ -52,6 +57,7 @@ namespace CompleteProject
 
             // Play the hurt sound effect.
             enemyAudio.Play ();
+            RuntimeManager.PlayOneShot(audioHurt,this.transform.position);
 
             // Reduce the current health by the amount of damage sustained.
             currentHealth -= amount;

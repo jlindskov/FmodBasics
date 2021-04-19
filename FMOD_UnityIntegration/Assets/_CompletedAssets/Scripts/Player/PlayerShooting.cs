@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using FMODUnity;
+using UnityEngine;
 using UnitySampleAssets.CrossPlatformInput;
 
 namespace CompleteProject
@@ -15,13 +16,17 @@ namespace CompleteProject
         RaycastHit shootHit;                            // A raycast hit to get information about what was hit.
         int shootableMask;                              // A layer mask so the raycast only hits things on the shootable layer.
         ParticleSystem gunParticles;                    // Reference to the particle system.
-        LineRenderer gunLine;                           // Reference to the line renderer.
+        LineRenderer gunLine;                             // Reference to the line renderer.
+        public StudioEventEmitter soundEmitter; 
         AudioSource gunAudio;                           // Reference to the audio source.
         Light gunLight;                                 // Reference to the light component.
 		public Light faceLight;								// Duh
         float effectsDisplayTime = 0.2f;                // The proportion of the timeBetweenBullets that the effects will display for.
 
 
+        
+        
+        
         void Awake ()
         {
             // Create a layer mask for the Shootable layer.
@@ -81,6 +86,7 @@ namespace CompleteProject
 
             // Play the gun shot audioclip.
             gunAudio.Play ();
+            soundEmitter.Play();
 
             // Enable the lights.
             gunLight.enabled = true;

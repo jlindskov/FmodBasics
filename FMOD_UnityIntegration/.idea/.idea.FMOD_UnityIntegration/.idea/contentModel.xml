@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jeppe\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jeppe\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_FMOD_UnityIntegration.-1347761288.00" t="ExcludeRecursive" />
+    <e p="D:\Unity Projects\FmodBasics\FMOD_UnityIntegration" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_CompletedAssets" t="Include">
+          <e p="MobileInput" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="CrossPlatformInputManager.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="CrossPlatformInputInitialize.cs" t="Include" />
+              </e>
+              <e p="Joystick.cs" t="Include" />
+              <e p="MobileControlRig.cs" t="Include" />
+              <e p="PlatformSpecific" t="Include">
+                <e p="MobileInput.cs" t="Include" />
+                <e p="StandaloneInput.cs" t="Include" />
+              </e>
+              <e p="VirtualInput.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Audio" t="Include">
+              <e p="MixLevels.cs" t="Include" />
+            </e>
+            <e p="Camera" t="Include">
+              <e p="CameraFollow.cs" t="Include" />
+            </e>
+            <e p="Enemy" t="Include">
+              <e p="EnemyAttack.cs" t="Include" />
+              <e p="EnemyHealth.cs" t="Include" />
+              <e p="EnemyMovement.cs" t="Include" />
+            </e>
+            <e p="Helpers" t="Include">
+              <e p="RandomAnimationPoint.cs" t="Include" />
+              <e p="RandomParticlePoint.cs" t="Include" />
+              <e p="VolumeHandler.cs" t="Include" />
+            </e>
+            <e p="Managers" t="Include">
+              <e p="EnemyManager.cs" t="Include" />
+              <e p="GameOverManager.cs" t="Include" />
+              <e p="MusicManager.cs" t="Include" />
+              <e p="PauseManager.cs" t="Include" />
+              <e p="ScoreManager.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="PlayerHealth.cs" t="Include" />
+              <e p="PlayerMovement.cs" t="Include" />
+              <e p="PlayerShooting.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="AudioAnimationHandler.cs" t="Include" />
+        <e p="Fonts" t="Include">
+          <e p="LuckiestGuy" t="Include">
+            <e p="FontLicense.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="FMOD" t="Include">
+            <e p="addons" t="Include">
+              <e p="ResonanceAudio" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="FmodResonanceAudioRoomEditor.cs" t="Include" />
+                  <e p="FMODUnityResonanceEditor.asmdef" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="FmodResonanceAudio.cs" t="Include" />
+                  <e p="FmodResonanceAudioRoom.cs" t="Include" />
+                  <e p="FMODUnityResonance.asmdef" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="FMODUnity.asmdef" t="Include" />
+            <e p="platform_ios.mm" t="Include" />
+            <e p="platforms" t="Include">
+              <e p="android" t="Include">
+                <e p="src" t="Include">
+                  <e p="PlatformAndroid.cs" t="Include" />
+                </e>
+              </e>
+              <e p="html5" t="Include">
+                <e p="src" t="Include">
+                  <e p="PlatformWebGL.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ios" t="Include">
+                <e p="src" t="Include">
+                  <e p="PlatformIOS.cs" t="Include" />
+                </e>
+              </e>
+              <e p="linux" t="Include">
+                <e p="src" t="Include">
+                  <e p="PlatformLinux.cs" t="Include" />
+                </e>
+              </e>
+              <e p="mac" t="Include">
+                <e p="src" t="Include">
+                  <e p="PlatformMac.cs" t="Include" />
+                </e>
+              </e>
+              <e p="tvos" t="Include">
+                <e p="src" t="Include">
+                  <e p="PlatformAppleTV.cs" t="Include" />
+                </e>
+              </e>
+              <e p="win" t="Include">
+                <e p="src" t="Include">
+                  <e p="PlatformWindows.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="src" t="Include">
+              <e p="Editor" t="Include">
+                <e p="BankRefDrawer.cs" t="Include" />
+                <e p="BoltIntegration.cs" t="Include" />
+                <e p="CreateEventPopup.cs" t="Include" />
+                <e p="EditorBankRef.cs" t="Include" />
+                <e p="EditorEventRef.cs" t="Include" />
+                <e p="EditorParamRef.cs" t="Include" />
+                <e p="EditorUtils.cs" t="Include" />
+                <e p="EventBrowser.cs" t="Include" />
+                <e p="EventCache.cs" t="Include" />
+                <e p="EventManager.cs" t="Include" />
+                <e p="EventRefDrawer.cs" t="Include" />
+                <e p="FindAndReplace.cs" t="Include" />
+                <e p="FMODUnityEditor.asmdef" t="Include" />
+                <e p="LogViewer.cs" t="Include" />
+                <e p="ParamRefDrawer.cs" t="Include" />
+                <e p="SettingsEditor.cs" t="Include" />
+                <e p="StudioBankLoaderEditor.cs" t="Include" />
+                <e p="StudioEventEmitterEditor.cs" t="Include" />
+                <e p="StudioEventEmitterGizmoDrawer.cs" t="Include" />
+                <e p="StudioGlobalParameterTriggerEditor.cs" t="Include" />
+                <e p="StudioListenerEditor.cs" t="Include" />
+                <e p="StudioParameterTriggerEditor.cs" t="Include" />
+                <e p="Timeline" t="Include">
+                  <e p="FMODEventPlayableEditor.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Runtime" t="Include">
+                <e p="BankRefAttribute.cs" t="Include" />
+                <e p="CodeGeneration.cs" t="Include" />
+                <e p="EventHandler.cs" t="Include" />
+                <e p="EventRefAttribute.cs" t="Include" />
+                <e p="fmod_static_plugin_support.h" t="Include" />
+                <e p="fmodplugins.cpp" t="Include" />
+                <e p="FMODRuntimeManagerOnGUIHelper.cs" t="Include" />
+                <e p="ParamRef.cs" t="Include" />
+                <e p="ParamRefAttribute.cs" t="Include" />
+                <e p="Platform.cs" t="Include" />
+                <e p="PlatformDefault.cs" t="Include" />
+                <e p="PlatformGroup.cs" t="Include" />
+                <e p="PlatformMobileHigh.cs" t="Include" />
+                <e p="PlatformMobileLow.cs" t="Include" />
+                <e p="PlatformPlayInEditor.cs" t="Include" />
+                <e p="RuntimeManager.cs" t="Include" />
+                <e p="RuntimeUtils.cs" t="Include" />
+                <e p="Settings.cs" t="Include" />
+                <e p="StudioBankLoader.cs" t="Include" />
+                <e p="StudioEventEmitter.cs" t="Include" />
+                <e p="StudioGlobalParameterTrigger.cs" t="Include" />
+                <e p="StudioListener.cs" t="Include" />
+                <e p="StudioParameterTrigger.cs" t="Include" />
+                <e p="Timeline" t="Include">
+                  <e p="FMODEventPlayable.cs" t="Include" />
+                  <e p="FMODEventTrack.cs" t="Include" />
+                </e>
+                <e p="wrapper" t="Include">
+                  <e p="fmod.cs" t="Include" />
+                  <e p="fmod_dsp.cs" t="Include" />
+                  <e p="fmod_errors.cs" t="Include" />
+                  <e p="fmod_studio.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Enemy" t="Include">
+            <e p="EnemyAttack.cs" t="Include" />
+            <e p="EnemyHealth.cs" t="Include" />
+            <e p="EnemyMovement.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="EnemyManager.cs" t="Include" />
+            <e p="GameOverManager.cs" t="Include" />
+            <e p="ScoreManager.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+            <e p="PlayerShooting.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SurvivalShooter_Third-PartyNotice.txt" t="Include" />
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="FMOD_UnityIntegration.sln" t="IncludeFlat" />
+      <e p="FMODUnity.csproj" t="IncludeRecursive" />
+      <e p="FMODUnityEditor.csproj" t="IncludeRecursive" />
+      <e p="FMODUnityResonance.csproj" t="IncludeRecursive" />
+      <e p="FMODUnityResonanceEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
