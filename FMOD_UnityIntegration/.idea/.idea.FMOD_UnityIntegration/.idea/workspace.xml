@@ -20,32 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a176829f-3f8c-4e7e-b1f8-44d741e3cd60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Characters/Player.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Characters/Player.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Animation/EnemyAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Animation/EnemyAnimatorController.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Animation/PlayerAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Animation/PlayerAnimatorController.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/Hellephant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/Hellephant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FMOD_UnityIntegration/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FMOD_UnityIntegration/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FMOD_UnityIntegration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FMOD_UnityIntegration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/ZomBear.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/ZomBear.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/ZomBunny.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Prefabs/ZomBunny.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scenes/Complete-Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scenes/Complete-Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/EnemyManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/EnemyManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/MusicManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/MusicManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/PauseManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/PauseManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FMODBanks/Desktop/Master.bank" beforeDir="false" afterPath="$PROJECT_DIR$/FMODBanks/Desktop/Master.bank" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FMODBanks/Desktop/Master.strings.bank" beforeDir="false" afterPath="$PROJECT_DIR$/FMODBanks/Desktop/Master.strings.bank" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/.unsaved/Metadata/Event/{958e5741-22a7-41d7-9647-05dda0e4d4bf}.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/.unsaved/metadataFileMapping.data" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{142902fa-f4fb-4237-a0d7-70e520eda2ab}.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{142902fa-f4fb-4237-a0d7-70e520eda2ab}.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{511328ab-a71e-4eed-9c9f-16c7d88ca42d}.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{511328ab-a71e-4eed-9c9f-16c7d88ca42d}.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{958e5741-22a7-41d7-9647-05dda0e4d4bf}.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{958e5741-22a7-41d7-9647-05dda0e4d4bf}.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{c1df62c6-26d5-47c0-8866-64c585d0e8be}.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Event/{c1df62c6-26d5-47c0-8866-64c585d0e8be}.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/ParameterPreset/{39870eee-7a1f-4a34-a483-f3d46a4f4d02}.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/ParameterPreset/{39870eee-7a1f-4a34-a483-f3d46a4f4d02}.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FmodBasic_Project/Metadata/Workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +60,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs" />
-        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs" />
-        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/MusicManager.cs" />
         <option value="$PROJECT_DIR$/Assets/AudioAnimationHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/PauseManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/EnemyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_CompletedAssets/Scripts/Managers/MusicManager.cs" />
       </list>
     </option>
   </component>
@@ -120,6 +120,7 @@
       <updated>1618596422834</updated>
       <workItem from="1618596433016" duration="2749000" />
       <workItem from="1618853453272" duration="2145000" />
+      <workItem from="1618943945818" duration="2127000" />
     </task>
     <servers />
   </component>
@@ -176,5 +177,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="519" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1618597481828" />
+    <state x="93" y="93" width="2375" height="1215" key="VCS.FileHistoryDialog" timestamp="1618945446486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="93" y="93" width="2375" height="1215" key="VCS.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1618945446486" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1618944952861">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1618944952861" />
   </component>
 </project>

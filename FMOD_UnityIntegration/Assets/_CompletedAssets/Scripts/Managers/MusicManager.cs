@@ -39,7 +39,7 @@ public class MusicManager : MonoBehaviour
 
     private void OnDestroy()
     {
-        musicInstance.stop(STOP_MODE.ALLOWFADEOUT);
+      //  musicInstance.stop(STOP_MODE.ALLOWFADEOUT);
         musicInstance.release(); 
     }
 }

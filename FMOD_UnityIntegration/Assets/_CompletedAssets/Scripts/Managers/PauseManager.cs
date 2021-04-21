@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine.Audio;
 #if UNITY_EDITOR
@@ -10,13 +11,39 @@ public class PauseManager : MonoBehaviour {
 	
 	public AudioMixerSnapshot paused;
 	public AudioMixerSnapshot unpaused;
-	
+
+	public List<GameObject> objsToTurnOn;
+	public MusicManager musicManager; 
+
 	Canvas canvas;
 	
-	void Start()
+	void Awake()
 	{
 		canvas = GetComponent<Canvas>();
+		DisableGameObjects(); 
+		canvas.enabled = true; 
 	}
+
+	public void StartGame()
+	{
+		foreach (GameObject gameobj in objsToTurnOn)
+		{
+			gameobj.SetActive(true);
+		}
+
+		musicManager.StartGameMusic();
+		canvas.enabled = false;
+	}
+	
+	public void DisableGameObjects()
+	{
+		foreach (GameObject gameobj in objsToTurnOn)
+		{
+			gameobj.SetActive(false);
+		}
+	}
+	
+	
 	
 	void Update()
 	{

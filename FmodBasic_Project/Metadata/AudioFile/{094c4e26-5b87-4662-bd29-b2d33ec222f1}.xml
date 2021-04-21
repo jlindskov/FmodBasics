@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{094c4e26-5b87-4662-bd29-b2d33ec222f1}">
+		<property name="assetPath">
+			<value>Player Hurt.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.88235827664399091</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{395e9745-639d-43d7-bc73-6a7bdf41f2ac}</destination>
+		</relationship>
+	</object>
+</objects>

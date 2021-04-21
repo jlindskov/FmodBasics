@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using FMOD.Studio;
+using FMODUnity;
+using FMODUnityResonance;
 using UnityEngine.SceneManagement;
 
 namespace CompleteProject
@@ -11,6 +14,10 @@ namespace CompleteProject
         public int currentHealth;                                   // The current health the player has.
         public Slider healthSlider;                                 // Reference to the UI's health bar.
         public Image damageImage;                                   // Reference to an image to flash on the screen on being hurt.
+        
+        [EventRef]
+        public string hurtAudio; 
+        
         public AudioClip deathClip;                                 // The audio clip to play when the player dies.
         public float flashSpeed = 5f;                               // The speed the damageImage will fade at.
         public Color flashColour = new Color(1f, 0f, 0f, 0.1f);     // The colour the damageImage is set to, to flash.
@@ -68,8 +75,18 @@ namespace CompleteProject
             // Set the health bar's value to the current health.
             healthSlider.value = currentHealth;
 
-            // Play the hurt sound effect.
+            // Play the hurt sound effect. UNITY AUDIO NOT FMOD.
             playerAudio.Play ();
+            
+            
+            //This is the same call as below. 
+            RuntimeManager.PlayOneShot(hurtAudio,this.transform.position);
+            
+            /*
+            EventInstance hurtInstance = RuntimeManager.CreateInstance(hurtAudio);
+            hurtInstance.set3DAttributes(RuntimeUtils.To3DAttributes(this.transform.position));
+            hurtInstance.start();
+            hurtInstance.release();*/
             
             // If the player has lost half of  it's health and the death flag hasn't been set yet we change music
             if(currentHealth <= 50 && !isDead)
@@ -93,6 +110,9 @@ namespace CompleteProject
 
             // Turn off any remaining shooting effects.
             playerShooting.DisableEffects ();
+            
+          
+            
 
             // Tell the animator that the player is dead.
             anim.SetTrigger ("Die");
